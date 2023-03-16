@@ -1,1 +1,2 @@
 this is a devops lab
+being conducted on a thursday
